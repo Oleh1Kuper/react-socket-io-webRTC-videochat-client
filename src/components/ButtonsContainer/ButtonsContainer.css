@@ -1,0 +1,12 @@
+.buttonContainer {
+  display: flex;
+  position: absolute;
+  bottom: 22%;
+  left: 35%;
+}
+
+.icon {
+  width: 25px;
+  height: 25px;
+  fill: #e6e5e8;
+}

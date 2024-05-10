@@ -1,0 +1,12 @@
+export const callStates = {
+  AVAILABLE: 'AVAILABLE',
+  UNAVAILABLE: 'UNAVAILABLE',
+  IN_PROGRESS: 'IN_PROGRESS',
+  REQUESTED: 'REQUESTED',
+};
+
+export const callAnswer = {
+  ACCEPTED: 'ACCEPTED',
+  REJECTED: 'REJECTED',
+  NOT_AVAILABLE: 'NOT_AVAILABLE',
+};

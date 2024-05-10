@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: #e6e5e8;
+}
+
+.background_main_color {
+  background-color: #8a85ff;
+}
+
+.background_secondary_color {
+  background-color: #282c34;
+}
+
+.text_main_color {
+  color: #e6e5e8;
+}
+
+.text_secondary_color {
+  color: #8a85ff;
+}

@@ -1,0 +1,13 @@
+.videoContainer {
+  width: 150px;
+  height: 150px;
+  border-radius: 8px;
+  position: absolute;
+  top: 5%;
+  right: 23%;
+}
+
+.videoElement {
+  height: 100%;
+  width: 100%;
+}
