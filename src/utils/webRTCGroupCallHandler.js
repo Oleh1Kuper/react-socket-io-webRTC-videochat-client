@@ -13,9 +13,6 @@ const { dispatch } = store;
 
 export const connectWithMyPeer = () => {
   myPeer = new window.Peer(undefined, {
-    // host: '/',
-    port: 443,
-    // path: '/peerjs',
     config: {
       iceServers: [...getTurnServers(), { url: 'stun:stun.1und1.de:3478' }],
     },
